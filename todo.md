@@ -2,7 +2,6 @@
 
 This is a list of things I intend to do soon on this wiki:
 
- - Checklist of tools/commands to quickly set up a new computer
  - Curated list of my best chess studies on lichess
  - Curated list of best resources I have for learning languages
  - Drawings, stories and other art work I created
