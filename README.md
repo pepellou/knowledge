@@ -11,6 +11,8 @@ If this is your first time browsing this wiki, here are some useful corners of i
  - [To Do](todo.md) - list of things I'm about to add to the wiki soon
  - [Boundaries](boundaries.md) - boundaries of my knowledge / things I want to study/research soon
 
+ - [Things that I install on a new computer](install.md)
+
 ## Contributing
 
 If you found a mistake anywhere or have any idea to improve this wiki, I would appreciate your feedback.
