@@ -1,4 +1,4 @@
-# My Knowledge Wiki
+# Everything I know
 
 This is my personal wiki where I share everything I know.
 
