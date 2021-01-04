@@ -1,6 +1,7 @@
 # Things that I install on a new computer
 
 This checklist makes it faster to set up a new computer for me.
+
 It's based on MacOS, since that seems to be the trend for my last computers.
 
 ## Apps
@@ -11,6 +12,7 @@ It's based on MacOS, since that seems to be the trend for my last computers.
  - [Skype](https://go.skype.com/mac.download)
  - [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos)
  - [brew.sh](https://brew.sh/#install)
+ - [Node](https://nodejs.org/en/download/)
  - [Gimp](https://www.gimp.org/downloads/)
  - [Spotify](https://www.spotify.com/us/download/mac/)
  - [Alfred](https://www.alfredapp.com/)
@@ -38,13 +40,15 @@ It's based on MacOS, since that seems to be the trend for my last computers.
 
     brew install stow
     cd ~/Workspace
-    git clone --recursive https://github.com/pepellou/dotfiles.git
+    git clone --recursive git@github.com:pepellou/dotfiles.git
     cd dotfiles
     stow bash
     stow git
     stov vim
     vim
     (in vim) :BundleInstall!
+
+    brew install tree
 
     brew install --cask basictex
 
@@ -55,3 +59,11 @@ It's based on MacOS, since that seems to be the trend for my last computers.
     brew install bat
 
     brew install the_silver_searcher
+
+    npm install --global http-server
+
+    npm install --global gulp-cli
+
+    git clone git@github.com:pepellou/stupid-simple-bash-scripts.git
+    cd stupid-simple-bash-scripts
+    cp scripts/* /usr/local/bin/
