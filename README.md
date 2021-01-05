@@ -11,7 +11,7 @@ If this is your first time browsing this wiki, here are some useful corners of i
  - [To Do](todo.md) - list of things I'm about to add to the wiki soon
  - [Boundaries](boundaries.md) - boundaries of my knowledge / things I want to study/research soon
 
- - [Things that I install on a new computer](install.md)
+ - 💻 [Things that I install on a new computer](install.md)
  - 🎶 [Music](music.md) - some playlists I use to work
  - ♟️ [Chess](chess/README.md) - anything related to this great topic in my life
 
