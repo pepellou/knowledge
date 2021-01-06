@@ -2,7 +2,7 @@
 
 This is my personal wiki where I share everything I know.
 
-It's obviously impossible to save all my knowledge here but at least I want to save or link most of my "knowledge work" I do (e.g., curated lists, languages flashcards, chess studies, etc)...
+It's obviously impossible to save all my knowledge here but at least I want to save or link most of the "knowledge work" I do (e.g., curated lists, languages flashcards, chess studies, etc)...
 
 ## Start here
 
