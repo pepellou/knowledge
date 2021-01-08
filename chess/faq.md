@@ -4,6 +4,7 @@ Since I'm asked some of these questions too often, I want to collect my answers 
 
  - [How to improve](#how-to-improve)
  - [How do you put your picture on your lichess profile](#how-do-you-put-your-picture-on-your-lichess-profile)
+ - [What is your favorite opening](#what-is-your-favorite-opening)
  - [How can I follow your stream from mobile](#how-can-i-follow-your-stream-from-mobile)
  - [How can I get my free lesson for subscribing](#how-can-i-get-my-free-lesson-for-subscribing)
  - [Can we play a correspondence game](#can-we-play-a-correspondence-game)
@@ -71,6 +72,10 @@ Since I'm asked some of these questions too often, I want to collect my answers 
 
     Host the photo somewhere online (imgur.com or a similar website)
     Then, just put the URL to the image as biography in the lichess profile.
+
+## What is your favorite opening
+
+    I have no favorite opening.
 
 ## How can I follow your stream from mobile
 
