@@ -12,3 +12,4 @@ This is where my knowledge ends and I want to research more:
  - [This list of free resources for web developers](https://dev.to/arepp23/28-free-resources-for-web-developers-49a3) might include something new and useful for me
  - [This list of 20 problem solving techniques in coding](https://dev.to/codinglanguages/how-to-learn-not-memorize-any-algorithm-or-data-structure-analysis-of-20-problem-solving-techniques-you-must-know-d77) - it might not teach me anything but I want to go over it to review my basic skillset
  - [This list of ReactJS tools](https://dev.to/courseprobe/top-10-reactjs-tools-used-by-the-most-successful-developers-34e3) - I don't know some of them and I want to try them
+ - GraphQL vs REST, [maybe this is a good article on that](https://dev.to/blessingartcreator/stop-using-rest-for-apis-53n)
