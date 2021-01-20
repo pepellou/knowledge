@@ -24,7 +24,23 @@
 
 ### Native Americans in pre-columbian North America
 
+Before Christopher Columbus arrives in the New World, it's called the pre-Columbian era.
+During this period, North America was populated by Native Americans.
+There's a big "clash of cultures" between European settlers and the Native Americans that will result in conflicts throughout American history.
+Native Americans are very likely descendants of Asian migrants who traveled through Siberia, Bering Strait, Alaska, Canada, the United States and Mexico, some time between 20000 and 40000 years ago.
+
+When Columbus arrived, between 1 million and 5 million Native Americans lived in modern Canada and USA. Another 20 million populated Mexico.
+Most natives survived by farming or hunting and gathering. They had a big respect and reverence for nature and its resources.
+
+The tribes were independent and often competing for the same resources, which didn't help to unify against European settlers.
+Native Americans came to be called Indians due to Columbus' mistake.
+
 #### The Early Colonial Era: Spain Colonizes the New World
+
+Columbus arrived in 1492 in a time when Europe had the resources and technology to establish colonies far from home (the Norse arrived earlier but never managed to settle).
+During the next century, Spain was the colonial power in the Americas, through advanced weaponry and ruthlessness to dominate the natives, and the Spanish Armada to prevent other countries to send expeditions. 
+Spanish conquistadors enslaved the natives and forced Caholicism to erase local culture.
+In 1588 the English navy defeated the Spanish Armada so French and English colonization of North America started.
 
 #### The English Arrive
 
