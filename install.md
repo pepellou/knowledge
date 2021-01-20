@@ -23,6 +23,7 @@ It's based on MacOS, since that seems to be the trend for my last computers.
  - [Opera](https://www.opera.com/computer/thanks?ni=stable&os=mac)
  - [YACReader](https://www.yacreader.com/downloads)
  - [Calibre](https://calibre-ebook.com/download_osx)
+ - [Slack](https://slack.com/downloads/mac)
 
 ## Adjust System Preferences
 
