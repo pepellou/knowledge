@@ -15,6 +15,7 @@ If this is your first time browsing this wiki, here are some useful corners of i
  - 🎶 [Music](music.md) - some playlists I use to work
  - ♟️ [Chess](chess/README.md) - anything related to this great topic in my life
  - 🎯 [Goals](goals/README.md) - keeping track of my goals
+ - 💻 [Open Source](open-source/README.md)
 
 ## Contributing
 
