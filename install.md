@@ -67,3 +67,8 @@ It's based on MacOS, since that seems to be the trend for my last computers.
     git clone git@github.com:pepellou/stupid-simple-bash-scripts.git
     cd stupid-simple-bash-scripts
     cp scripts/* /usr/local/bin/
+
+    brew install rbenv
+    rbenv init
+    curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
+    rbenv install 2.7.2
