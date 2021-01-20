@@ -55,5 +55,19 @@ Ideas to do next:
 
 ### [far2near.org](http://far2near.org/)
 
+Source code: [hhttps://github.com/pepellou/far2near](https://github.com/pepellou/far2near)
+
+Ideas to do next:
+ - Put more ideas into issues
+ - [#8](https://github.com/pepellou/far2near/issues/8) Write a good README file
+ - [#7](https://github.com/pepellou/far2near/issues/7) Fork me on Github button on page
+ - [#6](https://github.com/pepellou/far2near/issues/6) Autocomplete to select locations
+
+
 ### [heretested.org](http://heretested.org)
 
+Source code: [https://gitlab.com/pepellou/here-tested.org](https://gitlab.com/pepellou/here-tested.org) (🔒 private)
+
+Ideas to do next:
+ - Add typical basic issues (layout design, logo, favicon, show code in pages, ...) with labels
+ - Make repo public
