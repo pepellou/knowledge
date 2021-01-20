@@ -2,6 +2,8 @@
 
 This is a list of things I intend to do soon on this wiki:
 
+ - Find how to index and complete [schedule.md](schedule.md)
+ - Find how to index and complete [shortcuts.md](shortcuts.md)
  - Curated list of my best chess studies on lichess
  - Curated list of best resources I have for learning languages
  - Drawings, stories and other art work I created
