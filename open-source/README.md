@@ -70,4 +70,5 @@ Source code: [https://gitlab.com/pepellou/here-tested.org](https://gitlab.com/pe
 
 Ideas to do next:
  - Add typical basic issues (layout design, logo, favicon, show code in pages, ...) with labels
+ - Write a good README
  - Make repo public
