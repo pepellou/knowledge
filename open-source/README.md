@@ -64,7 +64,7 @@ Ideas to do next:
  - [#6](https://github.com/pepellou/far2near/issues/6) Autocomplete to select locations
 
 
-### [heretested.org](http://heretested.org)
+### [here-tested.org](http://here-tested.org)
 
 Source code: [https://gitlab.com/pepellou/here-tested.org](https://gitlab.com/pepellou/here-tested.org) (🔒 private)
 
