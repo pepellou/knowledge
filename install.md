@@ -72,3 +72,5 @@ It's based on MacOS, since that seems to be the trend for my last computers.
     rbenv init
     curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
     rbenv install 2.7.2
+
+    npm install -g tldr
