@@ -39,6 +39,9 @@ It's based on MacOS, since that seems to be the trend for my last computers.
 
 ## Command line tools
 
+    sudo chown -R pepellou /usr/local/lib/node_modules
+    sudo chgrp -R admin /usr/local/lib/node_modules
+
     brew install stow
     cd ~/Workspace
     git clone --recursive git@github.com:pepellou/dotfiles.git
@@ -75,3 +78,7 @@ It's based on MacOS, since that seems to be the trend for my last computers.
     rbenv install 2.7.2
 
     npm install -g tldr
+
+    brew install nvm
+
+    npm install -g gatsby-cli
