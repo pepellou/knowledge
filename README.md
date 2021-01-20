@@ -13,11 +13,12 @@ If this is your first time browsing this wiki, here are some useful corners of i
    - 🤯 [Boundaries](boundaries.md) - boundaries of my knowledge / things I want to study/research soon
 
  - Big topics:
-   - 💻 [Things that I install on a new computer](install.md)
    - 🎶 [Music](music.md) - some playlists I use to work
    - ♟️ [Chess](chess/README.md) - anything related to this great topic in my life
+   - 🌎 [Open Source](open-source/README.md)
+   - 💻 [Things that I install on a new computer](install.md)
    - 🎯 [Goals](goals/README.md) - keeping track of my goals
-   - 💻 [Open Source](open-source/README.md)
+   - 🧠 [Learning](learning.md) - keeping track of courses I study and other learning steps
 
 ## Contributing
 
