@@ -43,15 +43,11 @@ It's based on MacOS, since that seems to be the trend for my last computers.
     sudo chown -R pepellou /usr/local/lib/node_modules
     sudo chgrp -R admin /usr/local/lib/node_modules
 
-    brew install stow
     cd ~/Workspace
     git clone --recursive git@github.com:pepellou/dotfiles.git
     cd dotfiles
-    stow bash
-    stow git
-    stov vim
-    vim
-    (in vim) :BundleInstall!
+    vi install    # redefine any necessary paths at the top of the file
+    ./install
 
     brew install tree
 
