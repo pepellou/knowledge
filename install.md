@@ -25,6 +25,7 @@ It's based on MacOS, since that seems to be the trend for my last computers.
  - [Calibre](https://calibre-ebook.com/download_osx)
  - [Slack](https://slack.com/downloads/mac)
  - [Daisy Disk](https://apps.apple.com/app/daisydisk/id411643860?ign-mpt=uo%3D4&mt=12)
+ - [ChessX](https://sourceforge.net/projects/chessx/)
 
 ## Adjust System Preferences
 
