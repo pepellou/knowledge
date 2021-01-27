@@ -12,6 +12,7 @@ In this doc I'll try to keep track of my steps in these milestones.
  - [Projects I contribute to](#projects-i-contribute-to)
    - [lichess.org](#lichessorg)
    - [tldr](#tldr)
+   - [excalidraw](#excalidraw)
  - [My own projects](#my-own-projects)
    - [far2near.org](#far2nearorg)
    - [heretested.org](#heretestedorg)
@@ -50,6 +51,19 @@ My contributions:
 Ideas to do next:
  - [#5137](https://github.com/tldr-pages/tldr/issues/5137) Let's document: tj/git-extras
  - [#3689](https://github.com/tldr-pages/tldr/issues/3689) Reach parity with cheat cheatsheets
+
+### excalidraw
+
+Source code: [https://github.com/excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+
+Not contributing yet, but planning to do soon.
+
+Ideas to do next:
+ - Set up local development environment
+ - [#2490](https://github.com/excalidraw/excalidraw/issues/2490) The text elements seems to have a background color set, but they shouldn't
+ - [#1007](https://github.com/excalidraw/excalidraw/issues/1007) We should have a different hint when drawing multisegments lines on mobile
+ - [#2481](https://github.com/excalidraw/excalidraw/issues/2481) Show collaboration stats in the stats dialog
+ - [#2109](https://github.com/excalidraw/excalidraw/issues/2109) alt-drag should not modify original element
 
 ## My own projects
 
