@@ -91,3 +91,5 @@ It's based on MacOS, since that seems to be the trend for my last computers.
     brew services start mongodb/brew/mongodb-community
     brew install redis
     brew services start redis
+
+    npm i -g gitmoji-cli
