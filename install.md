@@ -26,6 +26,8 @@ It's based on MacOS, since that seems to be the trend for my last computers.
  - [Slack](https://slack.com/downloads/mac)
  - [Daisy Disk](https://apps.apple.com/app/daisydisk/id411643860?ign-mpt=uo%3D4&mt=12)
  - [ChessX](https://sourceforge.net/projects/chessx/)
+ - [Opera Gx](https://www.opera.com/gx)
+ - [jq](https://stedolan.github.io/jq/)
 
 ## Adjust System Preferences
 
@@ -80,3 +82,12 @@ It's based on MacOS, since that seems to be the trend for my last computers.
     brew install nvm
 
     npm install -g gatsby-cli
+
+    # for lichess dev:
+    brew install sbt
+    brew install yarn
+    brew tap mongodb/brew
+    brew install mongodb-community@4.4
+    brew services start mongodb/brew/mongodb-community
+    brew install redis
+    brew services start redis
