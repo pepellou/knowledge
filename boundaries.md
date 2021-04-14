@@ -2,6 +2,7 @@
 
 This is where my knowledge ends and I want to research more:
 
+ - 99 bottles of OOP - I've enjoyed it in the past in their Ruby version, but now they have PHP and Javascript too: [https://sandimetz.com/99bottles](https://sandimetz.com/99bottles)
  - Rust - I keep encountering it but never spent the time to learn more about it
  - React - although I have some experience already I want to dive in, probably take on a serious in-depth course
  - Russian recent history - I stopped studying this topic months ago for no reason, I want to restart on it using this wiki to organize my knowledge
@@ -13,3 +14,5 @@ This is where my knowledge ends and I want to research more:
  - [This list of 20 problem solving techniques in coding](https://dev.to/codinglanguages/how-to-learn-not-memorize-any-algorithm-or-data-structure-analysis-of-20-problem-solving-techniques-you-must-know-d77) - it might not teach me anything but I want to go over it to review my basic skillset
  - [This list of ReactJS tools](https://dev.to/courseprobe/top-10-reactjs-tools-used-by-the-most-successful-developers-34e3) - I don't know some of them and I want to try them
  - GraphQL vs REST, [maybe this is a good article on that](https://dev.to/blessingartcreator/stop-using-rest-for-apis-53n)
+ - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-0msrEB3bcHQHiiQD2n_Pzw&utm_medium=udemyads&utm_source=aff-campaign), from the content nothing new but it's always good to review all these things
+ - Design patterns in Javascript - I want to explore them in detail, as I'm used to them in pure OO languages. [This playlist](https://www.youtube.com/watch?v=24GF5MVEEjE&list=PLREW9ZuU80uTfmxo61-acnUYk3P_4plIF) could be a good starting point
