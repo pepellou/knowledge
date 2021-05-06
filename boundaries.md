@@ -2,6 +2,11 @@
 
 This is where my knowledge ends and I want to research more:
 
+ - Some interesting articles on AI + chess:
+   - [Learning to Play the Chess Variant Crazyhouse Above World Champion Level With Deep Neural Networks and Human Data](https://www.frontiersin.org/articles/10.3389/frai.2020.00024/full)
+   - [Deep Reinforcement Learning for Crazyhouse](https://ml-research.github.io/papers/czech2019deep.pdf)
+   - [Monte-Carlo Graph Search for AlphaZero](https://arxiv.org/abs/2012.11045)
+   - [Writing a Universal Chess Interface (UCI) Client in Java](https://www.andreinc.net/2021/04/22/writing-a-universal-chess-interface-client-in-java)
  - 99 bottles of OOP - I've enjoyed it in the past in their Ruby version, but now they have PHP and Javascript too: [https://sandimetz.com/99bottles](https://sandimetz.com/99bottles)
  - Rust - I keep encountering it but never spent the time to learn more about it
  - React - although I have some experience already I want to dive in, probably take on a serious in-depth course
