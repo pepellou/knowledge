@@ -93,3 +93,26 @@ It's based on MacOS, since that seems to be the trend for my last computers.
     brew services start redis
 
     npm i -g gitmoji-cli
+
+    ## Java and Maven
+
+    # Download JDK from https://jdk.java.net/
+    cd ~/Downloads
+    tar -xvf openjdk-16.0.1_osx-x64_bin.tar.gz
+    sudo mv jdk-16.0.1.jdk /Library/Java/JavaVirtualMachines
+
+    # Add these 3 lines to ~/.bashrc and ~/.zshrc
+    JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home"
+    PATH="${JAVA_HOME}/bin:${PATH}"
+    export PATH
+
+    # Download Maven from https://maven.apache.org/download.cgi (download the “Binary tar.gz archive”)
+    cd ~/Downloads
+    tar -xvf apache-maven-3.8.1-bin.tar.gz
+    mv apache-maven-3.8.1 ~/Workspace
+
+    # Add these 3 lines to ~/.bashrc and ~/.zshrc
+    export M2_HOME="/Users/pepellou/Workspace/apache-maven-3.8.1"
+    PATH="${M2_HOME}/bin:${PATH}"
+    export PATH
+
