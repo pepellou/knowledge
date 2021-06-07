@@ -18,3 +18,5 @@ This is a list of things I intend to do soon on this wiki:
  - Git tricks I use
  - List of comedy shows I enjoy (why not?)
  - List of learning resources and channels for chess
+ - Link stupid scripts repo
+ - Link qa repo
