@@ -11,6 +11,7 @@ What I'll do is collect here playlists I use for different purposes, and maybe s
 
 I usually switch playlists throughout a job day going through different styles, but these are the playlists that I use for maximum focus:
 
+ - [Synthwave - Retrowave - Retro Electro Livestream](https://www.youtube.com/watch?v=BbGOa8UIbAc) - sort of hacking music, all instrumental, perfect for coding or playing blitz chess
  - [Hacking music](https://youtube.com/playlist?list=PLJq-O-GkzDUOSQdZPyuqab-PU8rxdfBiL) - for coding without distractions or play slow chess
  - [Old School Metal](https://open.spotify.com/playlist/37i9dQZF1DX2LTcinqsO68?si=yETwC4iDQJSlNpKgEgLx9A) - for coding while enjoying music
  - [Genesis Radio](https://open.spotify.com/playlist/37i9dQZF1E4kjdOX8rRdZD?si=RvVx-6nfSfqPFUZCrkeNSQ) - for coding while enjoying music
