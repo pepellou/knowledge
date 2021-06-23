@@ -123,3 +123,7 @@ It's based on MacOS, since that seems to be the trend for my last computers.
     # Install Spaceship theme for oh-my-zsh
     git clone https://github.com/spaceship-prompt/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
     ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
+
+    # Funny quotes utilities
+    brew install fortune
+    brew install cowsay
