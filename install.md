@@ -134,3 +134,6 @@ It's based on MacOS, since that seems to be the trend for my last computers.
 
     # Fuzzy search tool
     git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
+
+    # Command-line pomodoro tool
+    npm install -g pomd
