@@ -116,3 +116,10 @@ It's based on MacOS, since that seems to be the trend for my last computers.
     PATH="${M2_HOME}/bin:${PATH}"
     export PATH
 
+    # Install oh-my-zsh
+    wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
+    sh install.sh
+
+    # Install Spaceship theme for oh-my-zsh
+    git clone https://github.com/spaceship-prompt/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
+    ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
