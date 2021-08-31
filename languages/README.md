@@ -142,7 +142,7 @@ This document captures all the facts I know about any language, regardless of ho
 ### Galician
 
  - My mother tongue.
- - Native to Spain, Andorra, France and Italy.
+ - Native to Galicia.
  - ~2.4 million speakers in Galicia but due to heavy emigration there's no accurate number of total speakers in the world.
  - It's NOT a dialect of Spanish.
 
