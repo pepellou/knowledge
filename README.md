@@ -19,6 +19,7 @@ If this is your first time browsing this wiki, here are some useful corners of i
    - 💻 [Things that I install on a new computer](install.md)
    - 🎯 [Goals](goals/README.md) - keeping track of my goals
    - 🧠 [Learning](learning.md) - keeping track of courses I study and other learning steps
+   - 🌐 [Languages](languages/README.md) - what I know and want to learn about languages
 
 ## Contributing
 
