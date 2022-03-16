@@ -18,6 +18,8 @@ I have completed many courses in the past, but I'm going to collect only new one
 
  - [Rust Fundamentals](https://www.udemy.com/course/rust-fundamentals/)
 
+ - [Codewars Week of SQL](http://r.news.codewars.com/mk/mr/HTOXcZ8we_vvyQ-SbmOI5pz1h4aXmRJoGXVK0ox8h1XzbFY48gcF2Ady4ZI4xBZ0GCLY1Gndo28CZA2nPimyaIzfI8nKvYb8QgF2og0Z0tyYO6Gz8u-_i0rq1W7k1J1p0CA)
+
 ## Languages
 
 This is more or less every language I ever studied, sorted from most proefficient to least:
