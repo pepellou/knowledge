@@ -137,3 +137,9 @@ It's based on MacOS, since that seems to be the trend for my last computers.
 
     # Command-line pomodoro tool
     npm install -g pomd
+
+    # Git Stats
+    brew install gnuplot
+    cd ~/Workspace
+    git clone git://github.com/hoxu/gitstats.git
+    ln -s ~/Workspace/gitstats/gitstats /usr/local/bin/gitstats
