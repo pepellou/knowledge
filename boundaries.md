@@ -2,6 +2,7 @@
 
 This is where my knowledge ends and I want to research more:
 
+ - Review important equations that changed the world: [https://twitter.com/ProfFeynman/status/1477628284892372995](https://twitter.com/ProfFeynman/status/1477628284892372995)
  - Some interesting articles on AI + chess:
    - [Learning to Play the Chess Variant Crazyhouse Above World Champion Level With Deep Neural Networks and Human Data](https://www.frontiersin.org/articles/10.3389/frai.2020.00024/full)
    - [Deep Reinforcement Learning for Crazyhouse](https://ml-research.github.io/papers/czech2019deep.pdf)
@@ -21,3 +22,4 @@ This is where my knowledge ends and I want to research more:
  - GraphQL vs REST, [maybe this is a good article on that](https://dev.to/blessingartcreator/stop-using-rest-for-apis-53n)
  - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-0msrEB3bcHQHiiQD2n_Pzw&utm_medium=udemyads&utm_source=aff-campaign), from the content nothing new but it's always good to review all these things
  - Design patterns in Javascript - I want to explore them in detail, as I'm used to them in pure OO languages. [This playlist](https://www.youtube.com/watch?v=24GF5MVEEjE&list=PLREW9ZuU80uTfmxo61-acnUYk3P_4plIF) could be a good starting point
+ - [How to build a Solana program](https://blog.developerdao.com/buidl-a-solana-program-explained-for-a-web2-dev?utm_source=tldrnewsletter&utm_medium=email&utm_campaign=tldr)
