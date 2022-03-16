@@ -25,6 +25,8 @@ In this doc I'll try to keep track of my steps in these milestones.
 
  - [1.20.2021] Start development of heretested.org
 
+ - [3.15.2022] Created collection of ["things I'm working on"](https://github.com/pepellou#things-im-working-on)
+
 ## Projects I contribute to
 
 ### [lichess.org](https://lichess.org/)
